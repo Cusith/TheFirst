@@ -1,0 +1,16 @@
+// This is the first program that just writes out a simple message
+// NAMES NAMES
+																			//I CAN SPAM // TO MAKE COMMENTS HELL YES
+#include <iostream>															// needed to perform C++ I/O
+using namespace std;
+																			//GOOD THING THE COMPILER IGNORES THESE THINGS 
+int main()																	//Initialize??? Integer??? Intelligence???
+																			//I DONT REMEMBER PYTHON BEING THIS STRUCTURED
+{
+
+	cout << "Now is the time for all good men" << endl;						//endl = End Line???
+	cout << "To come to the aid of their party" << endl;
+
+	return 0;																//DO I RETURN NOTHING 
+
+}
